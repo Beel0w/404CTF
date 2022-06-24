@@ -6,7 +6,7 @@ Le flag est du texte donc pour valider le challenge, n'oubliez pas de le mettre 
 
 ## Resolution
 Sur cet extrait des Misérables, on remarque que les lettres en début de ligne ont été remplacée par une autre ou un chiffre.
-Exemple : Ve sénateur poursuivit -> Le Sénateur poursuivit
+Exemple : Ve sénateur poursuivit -> Le Sénateur poursuivit  
 Le reste du second paragraphe ne nous intéresse pas car les phrases sont correctes.
 
 Par déduction, on isole la première lettre ou chiffe de chaques lignes.
