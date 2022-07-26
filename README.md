@@ -49,7 +49,7 @@ L'objectif est de résoudre des épreuves de cybersécurité dans diverses caté
 
 ### Web
 
-| Chall Name                                                       | Points | Completed | Flag |
+| Chall Name                                                       | Points | Objectif | Flag |
 |------------------------------------------------------------------|:--------------:|:------:|:---------------------------------:|
 | FICHE JS ✔    | 100     |  | <details><summary>`Spoiler`</summary>`404CTF{Haha_J3_5ui$_f4N_dObfu5c4tIoN_en_JS}`</details> |
 | LE BRAQUAGE ✔  | 877     |  | <details><summary>`Spoiler`</summary>`404CTF{VereuxUnGorfou014576945621ruedeskiwis2022-07-1401hDuMatinGorfousAuPouvoir}`</details> |
