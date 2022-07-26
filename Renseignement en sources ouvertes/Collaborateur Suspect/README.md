@@ -19,6 +19,7 @@ En cherchant un petit peu sur l'historique de toutes les pages du site 404 ctf.f
 <p align='center'>
 
 ![Screenshot](credits.photo.png)  
+
 </p>
 
-` Le flag est : 404CTF{R3G4rd3r_3n_arr13r3_p3uT_3tR3_1Nt3r3ss4Nt} `
+ **Le flag est :** `404CTF{R3G4rd3r_3n_arr13r3_p3uT_3tR3_1Nt3r3ss4Nt} `
